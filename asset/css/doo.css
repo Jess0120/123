@@ -1,0 +1,54 @@
+
+
+.exp img{
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 64%;
+}
+
+#Eimg0{
+    position: absolute;
+    left: 15%;
+}
+
+.Econ{
+    position: relative;
+    display: flex;
+
+    align-items: center;
+}
+
+.Econ .Ebox{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 15%;
+}
+
+.Econ .Ebox0{
+    position: relative;
+    left: 60%;
+}
+
+
+
+
+
+
+
+.Econ .Ebox .Etent{
+    position: absolute;
+    padding: 30px;
+    text-align: center;
+    transition: 0.5s;
+}
+
+svg{
+    width: 0;
+    height: 0;
+}
